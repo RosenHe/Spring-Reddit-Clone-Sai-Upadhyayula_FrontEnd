@@ -1,3 +1,7 @@
+
+The Spring-Reddit -Clone project from Sai Upadhyayula, https://www.youtube.com/watch?v=28Yl7nF9Zdg 
+https://programmingtechie.com/2020/04/24/build-a-full-stack-reddit-clone-with-spring-boot-and-angular-part-17/
+
 # PostRedditWebsite
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
